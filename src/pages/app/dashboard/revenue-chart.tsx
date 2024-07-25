@@ -1,12 +1,4 @@
-import {
-  CartesianGrid,
-  Line,
-  LineChart,
-  ResponsiveContainer,
-  Tooltip,
-  XAxis,
-  YAxis,
-} from 'recharts'
+import { Line, LineChart, ResponsiveContainer, XAxis, YAxis } from 'recharts'
 import colors from 'tailwindcss/colors'
 
 import {
